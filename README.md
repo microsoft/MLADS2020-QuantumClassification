@@ -2,6 +2,14 @@
 
 This repository contains the materials for the "Introduction to Quantum Classification" lab presented at Spring 2020 MLADS Conference.
 
+Full materials will be available here after June 1st. Meanwhile, here are some resources to get you started:
+
+* [Install Microsoft Quantum Development Kit and Q# Jupyter Notebooks](https://docs.microsoft.com/en-us/quantum/install-guide/qjupyter)
+* Learn the basics of quantum computing and Q# using the [Quantum Katas](https://github.com/Microsoft/QuantumKatas/)
+* Check out [Microsoft Quantum documentation](https://docs.microsoft.com/quantum), in particular [introduction to quantum machine learning](https://docs.microsoft.com/quantum/libraries/machine-learning/)
+
+We are looking forward to helping you learn quantum machine learning!
+
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
