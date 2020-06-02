@@ -40,7 +40,9 @@ namespace Microsoft.Quantum.Kata.QuantumClassification {
                 initialParameters
             ),
             samples,
-            DefaultTrainingOptions(),
+            DefaultTrainingOptions()
+                w/ LearningRate <- 2.0
+                w/ Tolerance <- 0.0005,
             DefaultSchedule(trainingVectors),
             DefaultSchedule(trainingVectors)
         );
