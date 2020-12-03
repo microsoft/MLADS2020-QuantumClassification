@@ -1,3 +1,5 @@
+***This repository has been archived. Please refer to [the tutorial on quantum classification with Q#](https://github.com/microsoft/QuantumKatas/tree/main/tutorials/QuantumClassification) for the latest version of the tutorial.***
+
 # Welcome!
 
 This repository contains the materials for the "Introduction to Quantum Classification" lab presented at Spring 2020 MLADS Conference. In this lab you will experiment with a simple circuit-centric quantum classifier using the Microsoft Quantum Development Kit.
